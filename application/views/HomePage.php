@@ -7,5 +7,5 @@
 	<select>
 		<br/>
 		<br/>
-		<img src="default.png" style="width:30%;"id="charImg"/>
+		<img src="../public/assets/images/default.png" style="width:30%;"id="charImg"/>
 	</div>
