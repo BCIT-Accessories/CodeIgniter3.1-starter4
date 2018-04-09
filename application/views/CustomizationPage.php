@@ -75,34 +75,34 @@
       <br>
       <label>Helmet</label>
       <br>
-      <img id="drag1" src="/assets/images/helmet_tier1.png" draggable="true" ondragstart="drag(event)" width="80" height="80">
-      <img id="drag2" src="/assets/images/helmet_tier2.png" draggable="true" ondragstart="drag(event)" width="80" height="80">
-      <img id="drag3" src="/assets/images/helmet_tier3.png" draggable="true" ondragstart="drag(event)" width="80" height="80">
-      <img id="drag4" src="/assets/images/helmet_tier4.png" draggable="true" ondragstart="drag(event)" width="80" height="80">
+      <img id="drag1" src="/assets/images/Helmet_tier1.png" draggable="true" ondragstart="drag(event)" width="80" height="80">
+      <img id="drag2" src="/assets/images/Helmet_tier2.png" draggable="true" ondragstart="drag(event)" width="80" height="80">
+      <img id="drag3" src="/assets/images/Helmet_tier3.png" draggable="true" ondragstart="drag(event)" width="80" height="80">
+      <img id="drag4" src="/assets/images/Helmet_tier4.png" draggable="true" ondragstart="drag(event)" width="80" height="80">
       <br>
       <br>
       <label>Shoulder Pads</label>
       <br>
-      <img id="drag9" src="/assets/images/shoulder_tier1.png" draggable="true" ondragstart="drag(event)" width="80" height="80">
-      <img id="drag10" src="/assets/images/shoulder_tier2.png" draggable="true" ondragstart="drag(event)" width="80" height="80">
-      <img id="drag11" src="/assets/images/shoulder_tier3.png" draggable="true" ondragstart="drag(event)" width="80" height="80">
-      <img id="drag12" src="/assets/images/shoulder_tier4.png" draggable="true" ondragstart="drag(event)" width="80" height="80">
+      <img id="drag9" src="/assets/images/Shoulder_tier1.png" draggable="true" ondragstart="drag(event)" width="80" height="80">
+      <img id="drag10" src="/assets/images/Shoulder_tier2.png" draggable="true" ondragstart="drag(event)" width="80" height="80">
+      <img id="drag11" src="/assets/images/Shoulder_tier3.png" draggable="true" ondragstart="drag(event)" width="80" height="80">
+      <img id="drag12" src="/assets/images/Shoulder_tier4.png" draggable="true" ondragstart="drag(event)" width="80" height="80">
       <br>
       <br>
       <label>Chest</label>
       <br>
-      <img id="drag5" src="/assets/images/chest_tier1.png" draggable="true" ondragstart="drag(event)" width="80" height="80">
-      <img id="drag6" src="/assets/images/chest_tier2.png" draggable="true" ondragstart="drag(event)" width="80" height="80">
-      <img id="drag7" src="/assets/images/chest_tier3.png" draggable="true" ondragstart="drag(event)" width="80" height="80">
-      <img id="drag8" src="/assets/images/chest_tier4.png" draggable="true" ondragstart="drag(event)" width="80" height="80">
+      <img id="drag5" src="/assets/images/Chest_tier1.png" draggable="true" ondragstart="drag(event)" width="80" height="80">
+      <img id="drag6" src="/assets/images/Chest_tier2.png" draggable="true" ondragstart="drag(event)" width="80" height="80">
+      <img id="drag7" src="/assets/images/Chest_tier3.png" draggable="true" ondragstart="drag(event)" width="80" height="80">
+      <img id="drag8" src="/assets/images/Chest_tier4.png" draggable="true" ondragstart="drag(event)" width="80" height="80">
       <br>
       <br>
       <label>Wrist Guard</label>
       <br>
-      <img id="drag13" src="/assets/images/wrist_tier1.png" draggable="true" ondragstart="drag(event)" width="80" height="80">
-      <img id="drag14" src="/assets/images/wrist_tier2.png" draggable="true" ondragstart="drag(event)" width="80" height="80">
-      <img id="drag15" src="/assets/images/wrist_tier3.png" draggable="true" ondragstart="drag(event)" width="80" height="80">
-      <img id="drag16" src="/assets/images/wrist_tier4.png" draggable="true" ondragstart="drag(event)" width="80" height="80">
+      <img id="drag13" src="/assets/images/Wrist_tier1.png" draggable="true" ondragstart="drag(event)" width="80" height="80">
+      <img id="drag14" src="/assets/images/Wrist_tier2.png" draggable="true" ondragstart="drag(event)" width="80" height="80">
+      <img id="drag15" src="/assets/images/Wrist_tier3.png" draggable="true" ondragstart="drag(event)" width="80" height="80">
+      <img id="drag16" src="/assets/images/Wrist_tier4.png" draggable="true" ondragstart="drag(event)" width="80" height="80">
       <br>
       <br>
     </div>
