@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1523234945">
-  <project timestamp="1523234945">
+<coverage generated="1523241340">
+  <project timestamp="1523241340">
     <file name="C:\xampp\htdocs\COMP4711-assignment-1\HaloAccessories\application\models/App.php">
       <class name="App" namespace="global">
         <metrics complexity="16" methods="6" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="17" coveredstatements="0" elements="23" coveredelements="0"/>
@@ -172,8 +172,8 @@
       <line num="14" type="stmt" count="0"/>
       <metrics loc="14" ncloc="7" classes="1" methods="1" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="3" coveredstatements="0" elements="4" coveredelements="0"/>
     </file>
-    <file name="C:\xampp\htdocs\COMP4711-assignment-1\HaloAccessories\application\models/Set.php">
-      <class name="Set" namespace="global">
+    <file name="C:\xampp\htdocs\COMP4711-assignment-1\HaloAccessories\application\models/HaloSet.php">
+      <class name="HaloSet" namespace="global">
         <metrics complexity="22" methods="7" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="44" coveredstatements="0" elements="51" coveredelements="0"/>
       </class>
       <line num="21" type="method" name="setId" visibility="public" complexity="4" crap="20" count="0"/>

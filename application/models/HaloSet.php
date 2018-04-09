@@ -1,6 +1,6 @@
 <?php
 
-class Set extends Entity
+class HaloSet extends Entity
 {
 	// Set id
 	public $id;
