@@ -1,17 +1,13 @@
 
 
 Code Coverage Report:     
-  2018-04-08 21:16:31     
+  2018-04-09 02:49:05     
                           
  Summary:                 
-  Classes: 16.67% (1/6)   
-  Methods: 38.10% (8/21)  
-  Lines:   53.54% (68/127)
+  Classes:  9.09% (1/11)  
+  Methods: 14.29% (6/42)  
+  Lines:   19.83% (48/242)
 
-Fruit
-  Methods:  50.00% ( 2/ 4)   Lines:  85.71% ( 18/ 21)
-Fruitbowl
-  Methods:   0.00% ( 0/ 1)   Lines:  66.67% (  2/  3)
 Task
   Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 30/ 30)
 Tasks
