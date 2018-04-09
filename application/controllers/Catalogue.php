@@ -23,12 +23,11 @@ class Catalogue extends Application
         $this->data['menubar'] = $this->parser->parse('_menubar', $this->config->item('menu_choices'), true);
         $this->data['pagetitle'] = "Catalogue";
         $this->data['pagebody'] = 'CataloguePage';
-        $this->load->model('inventory');
-        $all_the_items = $this->inventory->all();
-        $subset = $this->inventory->some('category','helmet');
-        $subset2 = $this->inventory->some('category','shoulder_left');
-        $subset3 = $this->inventory->some('category','chest');
-        $subset4 = $this->inventory->some('category','wrist');
+
+        $subset = $this->equipment->some('categoryId','0');
+        $subset2 = $this->equipment->some('categoryId','2');
+        $subset3 = $this->equipment->some('categoryId','1');
+        $subset4 = $this->equipment->some('categoryId','4');
         $this->data['subset'] = $subset;
         $this->data['subset2'] = $subset2;
         $this->data['subset3'] = $subset3;

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<categories>
+	<category>
+		<categoryId>0</categoryId>
+		<categoryName>helmet</categoryName>
+	</category>
+	<category>
+		<categoryId>1</categoryId>
+		<categoryName>chest</categoryName>
+	</category>
+	<category>
+		<categoryId>2</categoryId>
+		<categoryName>shoulder_left</categoryName>
+	</category>
+	<category>
+		<categoryId>3</categoryId>
+		<categoryName>shoulder_right</categoryName>
+	</category>
+	<category>
+		<categoryId>4</categoryId>
+		<categoryName>wrist</categoryName>
+	</category>
+</categories>
