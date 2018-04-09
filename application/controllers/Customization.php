@@ -2,7 +2,7 @@
 
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Customitization extends Application
+class Customization extends Application
 {
 
 	/**
