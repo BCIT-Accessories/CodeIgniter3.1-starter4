@@ -2,7 +2,7 @@
 
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Welcome extends Application
+class Customitization extends Application
 {
 
 	/**
@@ -21,13 +21,8 @@ class Welcome extends Application
 	{
     // Build the menubar
 		$this->data['menubar'] = $this->parser->parse('_menubar', $this->config->item('menu_choices'), true);
-		$this->data['pagetitle'] = 'Halo Accessorizor';
-		$this->data['pagebody'] = 'HomePage';
-
-		$sets = $this->sets->all();
-
-		$this->data['sets'] = $sets;
-
+		$this->data['pagetitle'] = 'Gear Customization';
+		$this->data['pagebody'] = 'CustomizationPage';
 		$this->render(); 
 	}
 

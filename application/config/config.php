@@ -6,6 +6,8 @@ $config['menu_choices'] = array(
     'menudata' => array(
         array('name' => 'Home', 'link' => '/'),
         array('name' => 'Catalog', 'link' => '/catalogue'),
+        array('name' => 'Gear Customization', 'link' => '/customization'),
+
         )
     );
 

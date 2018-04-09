@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<sets>
+	<set>
+		<setId>0</setId>
+		<setName>Recruit</setName>
+		<helmet>100</helmet>
+		<chest>101</chest>
+		<shoulder_left>102</shoulder_left>
+		<shoulder_right>103</shoulder_right>
+		<wrist>104</wrist>
+	</set>
+	<set>
+		<setId>1</setId>
+		<setName>Commando</setName>
+		<helmet>200</helmet>
+		<chest>201</chest>
+		<shoulder_left>202</shoulder_left>
+		<shoulder_right>403</shoulder_right>
+		<wrist>304</wrist>
+	</set>
+	<set>
+		<setId>2</setId>
+		<setName>ODST</setName>
+		<helmet>300</helmet>
+		<chest>301</chest>
+		<shoulder_left>302</shoulder_left>
+		<shoulder_right>303</shoulder_right>
+		<wrist>404</wrist>
+	</set>
+</sets>
